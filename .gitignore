@@ -1,0 +1,8 @@
+# IDEs and editors
+/.idea
+/.vscode
+/.vs
+.project
+.classpath
+*.launch
+.settings/
